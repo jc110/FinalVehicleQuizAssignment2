@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizVehicle</string>
+    <string name="option1">option1 </string>
+    <string name="option2">option2 </string>
+    <string name="option3">option3 </string>
+    <string name="option4">option4 </string>
+    <string name="heading1">Vehicle  Quiz</string>
+    <string name="ButtonUp">Button  UP</string>
+    <string name="ButtonDown">Button  Down</string>
+
+</resources>
